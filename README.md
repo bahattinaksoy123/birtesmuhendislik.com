@@ -1,2 +1,2 @@
 # birtesmuhendislik.com
-Web Site
+https://virtualuserx.github.io/birtesmuhendislik.com/
